@@ -1,4 +1,3 @@
-package com.cus.id;
 
 /**
  * twitter的snowflake算法 -- java实现
